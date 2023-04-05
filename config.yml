@@ -5,7 +5,7 @@ importers:
 - name: MultiProjectImporter
 imports:
 - projects/common/
-- projects/bot_challenge/
+- projects/greet/
 pipeline: 
 - name: WhitespaceTokenizer
 - name: RegexFeaturizer
